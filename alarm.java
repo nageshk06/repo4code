@@ -10,4 +10,3 @@ public class alarm {
         System.out.println("Alarm set for: " + alarmTime);
     }
 }
-``
