@@ -2,7 +2,7 @@ import java.time.LocalTime;
 import java.time.format.DateTimeFormatter;
 import java.util.Scanner;
 
-public class Alarm {
+public class alarm {
 
     public static void main(String[] args) throws InterruptedException {
         Scanner scanner = new Scanner(System.in);
