@@ -30,4 +30,3 @@ public class Alarm {
         scanner.close();
     }
 }
-``
